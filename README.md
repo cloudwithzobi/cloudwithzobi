@@ -57,6 +57,6 @@ I’m transitioning from a long career in financial services into **Cloud Engine
 
 ## 🤝 Connect
 
-- 💼 **LinkedIn:** (add your link here when you’re ready)
+- 💼 **LinkedIn:** www.linkedin.com/in/zohaibsyed365
 
 If you’re a recruiter, hiring manager, or engineer open to mentoring, I’d love to connect and learn more about cloud engineering opportunities.
